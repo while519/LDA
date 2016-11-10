@@ -1,182 +1,182 @@
-                  TOPIC_1	0.02808	                  TOPIC_2	0.01992	                  TOPIC_3	0.01946	                  TOPIC_4	0.02240	
+                  TOPIC_1	0.03389	                  TOPIC_2	0.01350	                  TOPIC_3	0.01543	                  TOPIC_4	0.02362	
 
-                   memory	0.21173	                     form	0.06442	              information	0.24937	                   theory	0.48496	
-              recognition	0.05323	           representation	0.05825	               processing	0.14389	                 theories	0.08614	
-                retrieval	0.04807	          representations	0.04481	                automatic	0.02351	                  account	0.03436	
-                   recall	0.04767	                relations	0.04201	                framework	0.02179	              predictions	0.02590	
-                    items	0.04092	                   common	0.03081	               controlled	0.02007	             quantitative	0.01942	
-                     item	0.03496	                  variety	0.02969	              demonstrate	0.02007	                developed	0.01644	
-                     list	0.02821	                    types	0.02913	                     goal	0.01778	                  assumes	0.01444	
-              associative	0.02225	                  special	0.02241	                   schema	0.01548	                  applied	0.00996	
-                   serial	0.02185	               structures	0.02017	                 sequence	0.01319	               accounting	0.00947	
-                  storage	0.01828	                 elements	0.01849	                     text	0.01262	                 previous	0.00747	
-
-
-                  TOPIC_5	0.02120	                  TOPIC_6	0.01795	                  TOPIC_7	0.02085	                  TOPIC_8	0.02010	
-
-                   visual	0.11051	                   speech	0.06276	               activation	0.05136	                  related	0.04162	
-                attention	0.07893	                 temporal	0.04971	                  network	0.03905	                   states	0.03274	
-                  spatial	0.04578	                    motor	0.04723	                 semantic	0.03531	                emotional	0.03218	
-                   search	0.03947	                  masking	0.04350	                   errors	0.03371	               behavioral	0.02775	
-                 parallel	0.03000	                   target	0.02300	                  account	0.03317	                 negative	0.02608	
-                    space	0.02474	                 auditory	0.02237	                   system	0.03050	                 positive	0.02608	
-                   object	0.02211	                   neural	0.02051	                  lexical	0.02836	                  primary	0.02497	
-                    color	0.02000	               properties	0.01927	                 computer	0.02247	                  arousal	0.02442	
-                  feature	0.02000	                  neurons	0.01865	                   output	0.02247	               motivation	0.02220	
-              attentional	0.01947	                   levels	0.01802	                    error	0.02140	                   stress	0.02220	
+                    units	0.08741	                 strategy	0.01704	                    noise	0.10726	                    state	0.05938	
+                   hidden	0.05978	                 approach	0.01116	              information	0.04035	            reinforcement	0.02553	
+                     unit	0.05206	                 expected	0.01014	                     code	0.02614	                   action	0.02550	
+                    layer	0.05156	                     game	0.00927	                   coding	0.02454	                   policy	0.02456	
+                    input	0.04222	                 positive	0.00847	                    input	0.02401	                  optimal	0.01805	
+                  network	0.03630	                   return	0.00834	                  channel	0.02086	                   states	0.01638	
+                   output	0.03483	                     move	0.00796	                   signal	0.01584	                  actions	0.01589	
+                  weights	0.03115	                     play	0.00764	                    noisy	0.01511	                  control	0.01271	
+                 training	0.02347	               strategies	0.00751	                   neural	0.01446	                     time	0.01218	
+                      net	0.02113	                     base	0.00674	                    error	0.01440	                  dynamic	0.01117	
 
 
-                  TOPIC_9	0.02056	                 TOPIC_10	0.01900	                 TOPIC_11	0.01980	                 TOPIC_12	0.01952	
+                  TOPIC_5	0.01378	                  TOPIC_6	0.02236	                  TOPIC_7	0.02155	                  TOPIC_8	0.01770	
 
-                  control	0.09331	                 stimulus	0.16908	                 analysis	0.10083	               similarity	0.05656	
-             conditioning	0.06130	                       ss	0.05695	                   argued	0.03211	                  account	0.04914	
-                responses	0.02604	                  effects	0.04345	               strategies	0.02986	                 category	0.03657	
-                classical	0.02550	                  results	0.03523	              statistical	0.02760	                  reading	0.03485	
-                 suggests	0.02333	                    trial	0.02584	                   values	0.02310	               conceptual	0.02914	
-                avoidance	0.02279	                 training	0.02525	                 analyzed	0.02085	                    class	0.02800	
-                       cs	0.01682	           generalization	0.02407	                    sense	0.01747	                including	0.02343	
-               inhibitory	0.01519	                     free	0.02349	                   events	0.01690	                 attitude	0.02171	
-                    occur	0.01519	                 transfer	0.02114	                 rational	0.01690	               comparison	0.02114	
-              contingency	0.01465	                 concepts	0.02055	                 bayesian	0.01578	                    shown	0.02114	
-
-
-                 TOPIC_13	0.01828	                 TOPIC_14	0.01995	                 TOPIC_15	0.01981	                 TOPIC_16	0.01994	
-
-                judgments	0.07569	                processes	0.18229	              alternative	0.07375	                  authors	0.12309	
-                 judgment	0.05921	                  process	0.12470	                empirical	0.06812	                knowledge	0.07162	
-                 accuracy	0.04456	                  effects	0.05089	                   change	0.04504	                  article	0.05819	
-                 observed	0.03907	               underlying	0.04250	                 relative	0.04279	                  present	0.05371	
-                concluded	0.03235	               mechanisms	0.03244	             implications	0.04166	                 sampling	0.02574	
-                    based	0.03113	                 directly	0.02237	                 proposed	0.03885	                    point	0.02071	
-                developed	0.02503	                  current	0.02013	                  dynamic	0.03322	                    argue	0.02015	
-                 measures	0.02198	                   direct	0.01790	                 examined	0.03097	                  propose	0.01959	
-                    speed	0.02076	                    tests	0.01678	                 criteria	0.02534	              limitations	0.01735	
-                   biases	0.01893	                    types	0.01398	               subjective	0.02027	                 previous	0.01679	
+                   memory	0.08600	                     data	0.10416	                  feature	0.04479	                  neurons	0.08932	
+                 patterns	0.05375	                 estimate	0.02502	                 features	0.04041	                   neuron	0.06587	
+                  pattern	0.04520	               regression	0.02223	           representation	0.02869	                    phase	0.02634	
+                 capacity	0.03062	               estimation	0.01988	                    level	0.02639	              connections	0.02171	
+              associative	0.02892	                 variance	0.01950	                structure	0.02310	                 activity	0.01760	
+                   number	0.01889	               clustering	0.01543	          representations	0.01554	                     time	0.01694	
+                    input	0.01751	                  methods	0.01467	                   figure	0.01506	                  network	0.01270	
+                   stored	0.01707	                   method	0.01459	               similarity	0.01373	                      fig	0.01182	
+                   recall	0.01245	                  cluster	0.01322	                     part	0.00959	               inhibition	0.01094	
+                 memories	0.01204	                estimates	0.01153	                   levels	0.00822	               inhibitory	0.01055	
 
 
-                 TOPIC_17	0.02044	                 TOPIC_18	0.02459	                 TOPIC_19	0.01917	                 TOPIC_20	0.01873	
+                  TOPIC_9	0.02957	                 TOPIC_10	0.02088	                 TOPIC_11	0.01382	                 TOPIC_12	0.02029	
 
-                 research	0.05130	                    model	0.56160	                 behavior	0.19961	                 relation	0.05895	
-            psychological	0.04639	                  effects	0.07259	                responses	0.05238	                    shown	0.04347	
-               psychology	0.04203	              predictions	0.04537	               behavioral	0.05122	                   affect	0.03037	
-                  article	0.03766	               consistent	0.02133	                 matching	0.04540	             mathematical	0.02978	
-                 theories	0.03439	                       al	0.02087	               situations	0.04074	                   result	0.02740	
-              theoretical	0.02784	                  assumes	0.01724	                behaviors	0.03085	                  derived	0.02680	
-            understanding	0.02511	                    prior	0.01588	                situation	0.02270	                   linear	0.02561	
-               approaches	0.02347	               concerning	0.01361	                  classes	0.01455	                 argument	0.02382	
-                    views	0.02183	                simulated	0.00681	                  utility	0.01281	                 predicts	0.02382	
-                  methods	0.02129	               mcclelland	0.00636	                    trait	0.01106	                 function	0.02323	
-
-
-                 TOPIC_21	0.02095	                 TOPIC_22	0.01888	                 TOPIC_23	0.01944	                 TOPIC_24	0.01906	
-
-                 decision	0.08252	                 evidence	0.15068	                 function	0.09413	                  stimuli	0.10654	
-                   choice	0.07241	                     view	0.05082	                functions	0.03961	                    order	0.04156	
-              probability	0.05750	             experimental	0.04787	                      law	0.03559	                component	0.03630	
-                     case	0.02982	                 reviewed	0.04314	               functional	0.03329	                   stages	0.02869	
-                   making	0.02875	                    based	0.03605	           discrimination	0.03042	                   single	0.02810	
-             alternatives	0.02449	                    found	0.03191	                      sex	0.02583	               components	0.02576	
-               preference	0.02236	                    kinds	0.01773	                    scale	0.02468	                    basic	0.02518	
-            probabilities	0.02236	                 position	0.01773	           psychophysical	0.02296	           identification	0.02518	
-               difference	0.02183	                 question	0.01655	                  latency	0.02124	                    units	0.02400	
-                  general	0.02183	                questions	0.01537	                    ratio	0.02067	                   higher	0.02342	
+              performance	0.05270	                    order	0.04812	                 behavior	0.02366	                   signal	0.03539	
+                  results	0.03015	                    basis	0.02957	                   figure	0.02021	                frequency	0.03424	
+                     test	0.02107	                   number	0.02276	                potential	0.01959	                   filter	0.02841	
+                    table	0.02026	                 approach	0.02233	                   system	0.01056	                   figure	0.02366	
+                     data	0.01955	                    terms	0.01598	                  sensory	0.01056	                 response	0.02287	
+                     task	0.01881	                 obtained	0.01525	                   neural	0.01044	                  filters	0.01593	
+              experiments	0.01361	             coefficients	0.01388	                  pattern	0.00984	                   output	0.01576	
+               experiment	0.01115	                   higher	0.01322	               biological	0.00856	                    input	0.01548	
+                    found	0.01078	                  results	0.01318	               properties	0.00852	                detection	0.01375	
+                   values	0.01017	                     case	0.01233	                 produced	0.00740	                      low	0.01337	
 
 
-                 TOPIC_25	0.01857	                 TOPIC_26	0.01900	                 TOPIC_27	0.01942	                 TOPIC_28	0.01964	
+                 TOPIC_13	0.01771	                 TOPIC_14	0.02048	                 TOPIC_15	0.02126	                 TOPIC_16	0.02253	
 
-              theoretical	0.08172	                cognitive	0.16966	              performance	0.12232	                     data	0.14883	
-               considered	0.03605	                  concept	0.04403	                     task	0.11256	              assumptions	0.05965	
-                   causal	0.03425	                  related	0.03934	                    tasks	0.07408	                     bias	0.04545	
-                    terms	0.03125	                including	0.03053	                 movement	0.04307	                      fit	0.02670	
-                 specific	0.02884	                    field	0.02290	                selection	0.03676	               parameters	0.02330	
-                 presents	0.02824	                 extended	0.02055	                  limited	0.03446	                 obtained	0.02159	
-            relationships	0.02824	                      age	0.01997	                 practice	0.02240	                 analyses	0.02102	
-                    power	0.02704	               depression	0.01997	                    human	0.02183	                  measure	0.01818	
-                discussed	0.02584	                  general	0.01820	                 accounts	0.01953	                   tested	0.01818	
-              measurement	0.02524	              development	0.01703	                 capacity	0.01781	               additional	0.01761	
-
-
-                 TOPIC_29	0.02024	                 TOPIC_30	0.01929	                 TOPIC_31	0.02024	                 TOPIC_32	0.02230	
-
-                      set	0.05843	               conditions	0.05783	              development	0.07386	               individual	0.06952	
-                   action	0.05236	                   events	0.05552	                   social	0.06063	                    group	0.04202	
-                      e.g	0.05126	                 proposed	0.04511	                influence	0.04024	                   social	0.04152	
-                     part	0.04024	                     cues	0.03643	            developmental	0.03197	              differences	0.03551	
-               properties	0.03858	                    event	0.03470	                 children	0.03087	              individuals	0.03201	
-               categories	0.03473	                 multiple	0.03296	                    early	0.02701	              personality	0.03201	
-                perceived	0.02536	                 paradigm	0.03239	                    human	0.02260	              interaction	0.03151	
-                      act	0.02315	                  produce	0.03181	                    child	0.01709	                   person	0.02701	
-                 distance	0.02315	                   formal	0.02718	               activities	0.01599	              consistency	0.02201	
-                 activity	0.01709	                 critical	0.02429	                cognition	0.01544	                    cross	0.02201	
+           classification	0.06579	                   speech	0.05576	                 dynamics	0.03741	                    image	0.07130	
+                    class	0.06111	              recognition	0.03708	                    state	0.03223	                   images	0.04798	
+               classifier	0.04049	                     word	0.03270	                   system	0.02913	                   object	0.03561	
+                  classes	0.02840	                 training	0.01950	                     time	0.01993	              recognition	0.02059	
+              classifiers	0.02405	                      hmm	0.01925	                    point	0.01988	                  objects	0.01890	
+                 training	0.01874	                   system	0.01916	                 networks	0.01846	                     face	0.01608	
+                 decision	0.01487	                  context	0.01536	                    fixed	0.01762	                   visual	0.01486	
+                  pattern	0.01436	                  speaker	0.01385	                 equation	0.01612	                   vision	0.01421	
+                  feature	0.01270	                    words	0.01223	                   neural	0.01469	                    pixel	0.01327	
+                     data	0.01235	                 acoustic	0.01011	                equations	0.01449	                     view	0.01002	
 
 
-                 TOPIC_33	0.02016	                 TOPIC_34	0.01887	                 TOPIC_35	0.01853	                 TOPIC_36	0.01887	
+                 TOPIC_17	0.01277	                 TOPIC_18	0.02162	                 TOPIC_19	0.01616	                 TOPIC_20	0.02680	
 
-                reasoning	0.05533	                   models	0.26250	                 language	0.04093	               hypothesis	0.08100	
-                   mental	0.04593	                     data	0.08455	                    stage	0.04093	                  studies	0.04080	
-                    based	0.04261	                     test	0.03843	               production	0.03732	                    basis	0.03548	
-                    rules	0.03541	                 reaction	0.03016	                structure	0.03732	              environment	0.03016	
-                 problems	0.02933	               continuous	0.02838	                 presents	0.03431	                presented	0.02898	
-                  ability	0.02712	                       rt	0.02661	                 capacity	0.02950	               hypotheses	0.02484	
-                inference	0.02656	                   simple	0.02306	            comprehension	0.02769	                  support	0.02070	
-                   verbal	0.02656	                 discrete	0.02129	                  aspects	0.02408	                   argued	0.01952	
-                    logic	0.02158	           discrimination	0.02129	                describes	0.02228	                discusses	0.01892	
-               inferences	0.02103	                  applied	0.01892	                  working	0.02228	               consistent	0.01833	
-
-
-                 TOPIC_37	0.01741	                 TOPIC_38	0.01871	                 TOPIC_39	0.01984	                 TOPIC_40	0.02208	
-
-                     role	0.05640	                detection	0.05008	                     word	0.07704	                  systems	0.05911	
-                  explain	0.03910	                   signal	0.04651	               perception	0.06467	                   system	0.05103	
-                     high	0.03718	                  account	0.03816	                    words	0.05905	                    brain	0.03638	
-                  complex	0.03333	           interpretation	0.03399	                frequency	0.05680	                   neural	0.02375	
-                  factors	0.03269	                     data	0.02981	              recognition	0.04330	                 emotions	0.02324	
-                      low	0.02500	                criterion	0.02802	                   motion	0.03487	               biological	0.02223	
-             relationship	0.02372	                    false	0.02504	                 accounts	0.02362	            physiological	0.01971	
-                   factor	0.02244	           characteristic	0.02087	                   effect	0.02306	                  animals	0.01769	
-                     left	0.01475	                 strength	0.02087	                direction	0.02193	                    basic	0.01769	
-                     pair	0.01410	                  current	0.01908	                 apparent	0.01631	                  emotion	0.01668	
+                     tree	0.05265	                    cells	0.03266	              recognition	0.04331	                 function	0.12657	
+                    trees	0.02331	                   visual	0.02849	                 distance	0.02166	                functions	0.07098	
+                 decision	0.02008	                   cortex	0.02621	                character	0.02056	            approximation	0.03026	
+                   number	0.01903	              orientation	0.02440	                  tangent	0.01552	                   linear	0.02683	
+                structure	0.01513	                 cortical	0.01907	               characters	0.01415	                      set	0.01476	
+                      set	0.01479	                     cell	0.01581	                      set	0.01399	                variables	0.01245	
+               structures	0.01225	                  spatial	0.01336	                    digit	0.01383	                  general	0.01164	
+                algorithm	0.00967	                   tuning	0.01174	                  pattern	0.01252	            computational	0.01015	
+                   blocks	0.00957	                 activity	0.01102	                   digits	0.01177	                     form	0.00921	
+                    split	0.00953	                 stimulus	0.00972	                    image	0.01094	               continuous	0.00862	
 
 
-                 TOPIC_41	0.02038	                 TOPIC_42	0.01857	                 TOPIC_43	0.02111	                 TOPIC_44	0.01911	
+                 TOPIC_21	0.03176	                 TOPIC_22	0.01995	                 TOPIC_23	0.01869	                 TOPIC_24	0.01320	
 
-                   number	0.06020	                    level	0.08172	              experiments	0.12841	                   effect	0.06654	
-              differences	0.05418	                  problem	0.07451	                  results	0.08931	                suggested	0.06420	
-                 findings	0.05254	              independent	0.04146	                presented	0.05866	                   recent	0.04903	
-                  support	0.04707	                  central	0.03365	                     show	0.05073	               literature	0.03619	
-                    terms	0.04707	                  assumed	0.03245	                   series	0.03382	                mechanism	0.03619	
-                  provide	0.04269	              integration	0.02884	                    range	0.03330	               inhibition	0.03269	
-                 research	0.03722	                   simple	0.02704	                   target	0.03224	                discussed	0.03152	
-                 proposed	0.03612	                  solving	0.02584	                  derived	0.02326	                     size	0.02627	
-                  priming	0.03448	                   timing	0.02524	                   extent	0.02220	                 produced	0.02510	
-                  studies	0.03393	                     drug	0.02464	                   random	0.02114	                 addition	0.02335	
-
-
-                 TOPIC_45	0.02151	                 TOPIC_46	0.01839	                 TOPIC_47	0.02012	                 TOPIC_48	0.01915	
-
-                 response	0.16646	                    study	0.06916	               perceptual	0.09039	                 approach	0.08157	
-            reinforcement	0.06171	                  context	0.06492	                 features	0.05046	               experience	0.04545	
-                     rate	0.03786	                principle	0.04186	               assumption	0.03937	                  general	0.03263	
-                 feedback	0.02438	                   author	0.03458	                  objects	0.03716	                   nature	0.03030	
-             instrumental	0.02230	                    noise	0.03216	             organization	0.02995	                   issues	0.02914	
-                    times	0.02230	                discussed	0.03094	               perception	0.02884	              constraints	0.02681	
-                variables	0.01919	                   argues	0.03034	                    image	0.02551	                  aspects	0.02040	
-                 interval	0.01815	                  present	0.02973	                 position	0.01997	                 attempts	0.01981	
-                  operant	0.01712	                     wide	0.02912	                structure	0.01830	                    human	0.01981	
-               responding	0.01712	                phenomena	0.02124	                  letters	0.01609	            psychological	0.01865	
+                  network	0.22424	                       eq	0.01718	               prediction	0.04055	                  mixture	0.03115	
+                   neural	0.11016	                     line	0.01394	                   neural	0.03487	                      rbf	0.02823	
+                 networks	0.10057	                  teacher	0.01327	               processing	0.02013	                     data	0.02783	
+                    input	0.05286	                      fig	0.01253	                  systems	0.02006	                 gaussian	0.02524	
+                   output	0.04374	                    order	0.01212	                 advances	0.01994	                  experts	0.02426	
+                   inputs	0.01975	              temperature	0.01140	              information	0.01975	                   expert	0.01969	
+             architecture	0.01539	                boltzmann	0.01123	                   morgan	0.01968	                      set	0.01562	
+                      net	0.01129	                   curves	0.01112	                 kaufmann	0.01815	                    basis	0.01559	
+                  outputs	0.01090	                  student	0.01073	                      san	0.01753	                  missing	0.01546	
+                  weights	0.00977	                    phase	0.00995	                   series	0.01484	                 training	0.01431	
 
 
-                 TOPIC_49	0.01896	                 TOPIC_50	0.02149	
+                 TOPIC_25	0.02501	                 TOPIC_26	0.02361	                 TOPIC_27	0.02458	                 TOPIC_28	0.01805	
 
-                 patterns	0.04237	                 learning	0.17702	
-                 contrast	0.03767	                phenomena	0.05503	
-                  pattern	0.03590	                     term	0.04672	
-                  defined	0.02531	                    short	0.03167	
-             interactions	0.02531	                 specific	0.03063	
-              orientation	0.02531	               principles	0.02856	
-                sensitive	0.02354	                 adaptive	0.02544	
-                  surface	0.02178	                 implicit	0.02544	
-                   result	0.01942	               mechanisms	0.02544	
-                 elements	0.01707	                framework	0.02025	
+                algorithm	0.13688	                 learning	0.23697	                     time	0.10644	                   neural	0.02437	
+               algorithms	0.04295	                    learn	0.02980	                   system	0.07108	                 parallel	0.01868	
+                 learning	0.03550	                     task	0.02780	                  systems	0.02688	           implementation	0.01440	
+              convergence	0.02753	                  learned	0.02710	                     real	0.01891	                     chip	0.01414	
+                     step	0.02283	                    robot	0.01754	                    delay	0.00913	                      bit	0.01388	
+                   update	0.01777	                    tasks	0.01728	               processing	0.00855	                   weight	0.01325	
+                 gradient	0.01419	                   figure	0.01259	                   simple	0.00800	                  digital	0.01320	
+               iterations	0.01233	                     goal	0.01244	                  problem	0.00793	                 hardware	0.01080	
+               stochastic	0.01206	              environment	0.01086	                 approach	0.00791	                     data	0.01049	
+                iteration	0.01206	                    space	0.01017	                  complex	0.00776	                processor	0.00994	
+
+
+                 TOPIC_29	0.01811	                 TOPIC_30	0.02491	                 TOPIC_31	0.01440	                 TOPIC_32	0.02020	
+
+                     cell	0.04699	                    error	0.05834	                    field	0.09309	                    space	0.05124	
+                   firing	0.03823	                   weight	0.05624	                   fields	0.03573	                      map	0.04371	
+                    spike	0.03749	                 learning	0.05095	                receptive	0.02466	                   points	0.02971	
+                    cells	0.03404	                  weights	0.02904	                   active	0.02229	                    local	0.02608	
+                     time	0.02560	                     rate	0.02266	                attention	0.02114	              dimensional	0.02495	
+                     rate	0.02148	                 gradient	0.02144	                   single	0.01877	                 distance	0.02186	
+                  neurons	0.01498	                  optimal	0.01788	                     size	0.01573	                   figure	0.02036	
+                   spikes	0.01452	           generalization	0.01720	                    local	0.01474	                    point	0.01933	
+                   neuron	0.01423	                 function	0.01530	               processing	0.01462	                  regions	0.01926	
+                 temporal	0.01304	                     term	0.01476	                 location	0.01462	                     maps	0.01709	
+
+
+                 TOPIC_33	0.01639	                 TOPIC_34	0.01640	                 TOPIC_35	0.01721	                 TOPIC_36	0.02379	
+
+                  control	0.07284	                 synaptic	0.05744	                    rules	0.03637	                  theorem	0.02928	
+                    motor	0.02595	                    input	0.03930	                     rule	0.03030	                    bound	0.02394	
+               trajectory	0.02373	                 synapses	0.02591	            connectionist	0.01986	                threshold	0.01956	
+               controller	0.02157	                 activity	0.01675	                knowledge	0.01221	                   number	0.01823	
+                  forward	0.01678	               excitatory	0.01495	           representation	0.01150	                   bounds	0.01761	
+                      arm	0.01660	                   inputs	0.01368	               activation	0.01143	                    proof	0.01619	
+                 feedback	0.01509	                  hebbian	0.01273	              distributed	0.00987	                     size	0.01426	
+                     hand	0.01351	               inhibitory	0.01252	          representations	0.00982	                dimension	0.01378	
+                   system	0.01308	                  synapse	0.01104	                     role	0.00856	                     loss	0.01318	
+                 movement	0.01218	                   neuron	0.01091	                      set	0.00826	                 networks	0.01133	
+
+
+                 TOPIC_37	0.01598	                 TOPIC_38	0.01376	                 TOPIC_39	0.01570	                 TOPIC_40	0.01821	
+
+                   motion	0.05380	                   kernel	0.03529	                    state	0.06698	                  circuit	0.04250	
+                direction	0.04713	                  support	0.02588	                 sequence	0.04891	                   analog	0.03900	
+                   visual	0.03013	                   vector	0.01958	                recurrent	0.03875	                  current	0.02432	
+                      eye	0.02441	                 examples	0.01823	                sequences	0.02823	                  voltage	0.02332	
+                 velocity	0.02281	                    space	0.01511	                   states	0.02567	                     chip	0.02168	
+                     head	0.02091	                   margin	0.01385	                     time	0.01708	                   figure	0.02118	
+                 position	0.02085	                algorithm	0.01370	                   length	0.01507	                   output	0.01949	
+                  spatial	0.01619	                      set	0.01247	                  context	0.01452	                 circuits	0.01663	
+                   moving	0.01478	                 positive	0.01159	                    order	0.01350	                    input	0.01587	
+                   figure	0.01215	                      svm	0.01130	               transition	0.01322	                     vlsi	0.01578	
+
+
+                 TOPIC_41	0.02698	                 TOPIC_42	0.01552	                 TOPIC_43	0.02209	                 TOPIC_44	0.01748	
+
+              probability	0.06616	                   search	0.03710	                   vector	0.06325	                 response	0.02275	
+             distribution	0.04572	                   target	0.03509	                   matrix	0.06102	                 stimulus	0.02064	
+              information	0.02572	                selection	0.02301	                   linear	0.04095	                  stimuli	0.01747	
+                   sample	0.01946	                   number	0.01675	                  vectors	0.03828	                 auditory	0.01680	
+                  density	0.01712	                      set	0.01201	                    space	0.02079	                    model	0.01640	
+                  entropy	0.01466	                    query	0.01134	              dimensional	0.01722	                responses	0.01276	
+                   random	0.01453	                  problem	0.01013	               components	0.01396	                    brain	0.01259	
+                     case	0.01373	               algorithms	0.01000	                nonlinear	0.01369	                    sound	0.01038	
+            distributions	0.01214	                  genetic	0.00986	                principal	0.01336	                   system	0.00966	
+              statistical	0.01094	                 problems	0.00913	               projection	0.01291	                  sensory	0.00892	
+
+
+                 TOPIC_45	0.02098	                 TOPIC_46	0.01277	                 TOPIC_47	0.02511	                 TOPIC_48	0.02275	
+
+                    model	0.30109	                component	0.03063	                 training	0.12091	                  problem	0.05349	
+                   models	0.10734	              independent	0.02592	                      set	0.06174	                 solution	0.03009	
+               parameters	0.03507	                   source	0.02524	                    error	0.05417	             optimization	0.02614	
+                 modeling	0.01743	               components	0.02252	                 examples	0.02942	                 function	0.02226	
+                parameter	0.01280	                 analysis	0.02239	                     test	0.02851	                    local	0.02074	
+                  process	0.01113	                  sources	0.02191	           generalization	0.02654	                   energy	0.02034	
+                    based	0.01037	               separation	0.02073	                     data	0.02243	                     cost	0.01849	
+                    paper	0.01004	                  signals	0.01903	                     sets	0.01945	              constraints	0.01643	
+                 observed	0.00981	                      ica	0.01818	               validation	0.01377	                   method	0.01641	
+                    gamma	0.00764	                     data	0.01811	                  trained	0.01349	                 problems	0.01569	
+
+
+                 TOPIC_49	0.01173	                 TOPIC_50	0.02895	
+
+                    nodes	0.07678	                 gaussian	0.02645	
+                     node	0.07645	                 bayesian	0.02296	
+                    graph	0.04046	               likelihood	0.02233	
+                     path	0.02402	                     data	0.02148	
+                      set	0.02187	                    prior	0.01895	
+                   graphs	0.01149	             distribution	0.01880	
+                  routing	0.01134	                posterior	0.01786	
+                    paths	0.01090	               parameters	0.01679	
+                     link	0.00968	                      log	0.01619	
+                     edge	0.00961	                variables	0.01611	
 
 

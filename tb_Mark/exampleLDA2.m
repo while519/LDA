@@ -6,7 +6,7 @@
 
 %%
 % Choose the dataset
-dataset = 1; % 1 = psych review abstracts 2 = NIPS papers
+dataset = 2; % 1 = psych review abstracts 2 = NIPS papers
 
 if (dataset == 1)
     % load the psych review data in bag of words format
