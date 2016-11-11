@@ -1,0 +1,247 @@
+                            TOPIC 1	0.01642	                            TOPIC 2	0.02036	                            TOPIC 3	0.01563	                            TOPIC 4	0.02689	
+
+                              image	0.10245	                              model	0.05113	                              error	0.09771	                          direction	0.04763	
+                            feature	0.08010	                               data	0.03117	                           training	0.05076	                             motion	0.04480	
+                             images	0.07287	                             models	0.02909	                             weight	0.04196	                                eye	0.02978	
+                           features	0.06313	                         likelihood	0.02474	                           learning	0.03778	                             visual	0.02853	
+                             system	0.01163	                         parameters	0.02402	                     generalization	0.03320	                           position	0.02643	
+                              based	0.00985	                            mixture	0.02058	                           examples	0.01737	                           velocity	0.02139	
+                            texture	0.00959	                           bayesian	0.02009	                            weights	0.01512	                             system	0.02006	
+
+                        Sejnowski_T	0.03999	                            Platt_J	0.03499	                        Mjolsness_E	0.03149	                            Singh_S	0.06834	
+                           Coolen_A	0.02184	                            Mozer_M	0.01104	                       Rangarajan_A	0.02036	                            Barto_A	0.03872	
+                           Attias_H	0.01520	                           Burges_C	0.01079	                           Keeler_J	0.01406	                           Sutton_R	0.03587	
+                              Oja_E	0.01399	                        Mjolsness_E	0.00995	                            Mozer_M	0.01312	                            Moore_A	0.02456	
+                             Bell_A	0.01221	                             Gold_S	0.00993	                            Utans_J	0.01222	                            Thrun_S	0.02261	
+                          Lewicki_M	0.01194	                            Moore_A	0.00914	                           Waibel_A	0.01198	                             Parr_R	0.02000	
+                             Jung_T	0.01062	                             Leen_T	0.00885	                            Gindi_G	0.01161	                            Dayan_P	0.01947	
+
+
+                            TOPIC 5	0.01785	                            TOPIC 6	0.01620	                            TOPIC 7	0.01625	                            TOPIC 8	0.01501	
+
+                           function	0.04647	                              units	0.10787	                             system	0.05231	                              input	0.22221	
+                          functions	0.03627	                             hidden	0.07789	                           dynamics	0.03768	                             output	0.14476	
+                            theorem	0.02777	                               unit	0.06290	                               time	0.03021	                              layer	0.07717	
+                          threshold	0.02323	                            network	0.05812	                              phase	0.02223	                             inputs	0.05457	
+                              proof	0.01599	                            weights	0.04262	                            systems	0.01792	                             values	0.01715	
+                             number	0.01286	                                net	0.02274	                              fixed	0.01741	                                set	0.01708	
+                         polynomial	0.01156	                        propagation	0.02099	                          dynamical	0.01686	                             layers	0.01605	
+
+                          Shavlik_J	0.02623	                            Baird_B	0.02803	                             Graf_H	0.02126	                          Lazzaro_J	0.02880	
+                        Sejnowski_T	0.02257	                           Tishby_N	0.01737	                               Li_Z	0.01685	                           Harris_J	0.02777	
+                          Tesauro_G	0.01618	                           Slaney_M	0.01405	                       Tomboulian_S	0.01337	                              Liu_S	0.02769	
+                            Thrun_S	0.01315	                       van-Schaik_A	0.01323	                            Brown_N	0.01094	                          Andreou_A	0.02500	
+                           Jordan_M	0.01168	                        Sejnowski_T	0.01259	                           Spence_C	0.00961	                             Mead_C	0.02323	
+                        Tenenbaum_J	0.00988	                             Cole_R	0.01133	                            Sajda_P	0.00925	                             Koch_C	0.01602	
+                         Schapire_R	0.00981	                          Edwards_R	0.01130	                     Cauwenberghs_G	0.00763	                     Cauwenberghs_G	0.01439	
+
+
+                            TOPIC 9	0.01852	                           TOPIC 10	0.02077	                           TOPIC 11	0.03328	                           TOPIC 12	0.01696	
+
+                               node	0.06616	                              bound	0.03235	                             neuron	0.02834	                             visual	0.03479	
+                              nodes	0.06559	                           examples	0.02358	                             neural	0.02198	                          attention	0.01558	
+                               tree	0.04890	                             bounds	0.02292	                            neurons	0.02172	                             figure	0.01518	
+                          algorithm	0.03046	                          dimension	0.01908	                             system	0.01998	                             vision	0.01332	
+                              trees	0.02172	                              upper	0.01540	                           parallel	0.01877	                              pixel	0.01317	
+                                set	0.01837	                         hypothesis	0.01450	                     implementation	0.01818	                             filter	0.01250	
+                           decision	0.01825	                              class	0.01282	                                bit	0.01814	                            spatial	0.01210	
+
+                        Pomerleau_D	0.03194	                        Sejnowski_T	0.07742	                            Mozer_M	0.02182	                             Koch_C	0.07987	
+                           Baluja_S	0.02749	                            Zemel_R	0.03791	                        Pomerleau_D	0.01574	                        Sejnowski_T	0.02140	
+                            Viola_P	0.01802	                           Pouget_A	0.03635	                           Hinton_G	0.01352	                 Etienne-Cummings_R	0.01512	
+                           Spence_C	0.01609	                           Hinton_G	0.02435	                           Waibel_A	0.01060	                         Goodhill_G	0.01136	
+                          Darrell_T	0.01384	                            Mozer_M	0.02194	                            Giles_C	0.01049	                           Bialek_W	0.01045	
+                         Cottrell_G	0.01310	                            Dayan_P	0.02058	                          Tesauro_G	0.01025	                        Grunewald_A	0.01004	
+                          Freeman_W	0.01223	                           Becker_S	0.01643	                            Allen_R	0.00973	                            Dayan_P	0.00945	
+
+
+                           TOPIC 13	0.01943	                           TOPIC 14	0.01467	                           TOPIC 15	0.01864	                           TOPIC 16	0.02500	
+
+                           learning	0.29557	                        recognition	0.04342	                       distribution	0.07106	                              order	0.02869	
+                              learn	0.03049	                           training	0.02415	                        probability	0.04712	                           capacity	0.01984	
+                            learned	0.02676	                                set	0.01955	                             sample	0.02388	                                 eq	0.01776	
+                             system	0.01766	                          character	0.01878	                            density	0.02189	                            teacher	0.01445	
+                               rule	0.01754	                               test	0.01611	                           variance	0.02160	                          equations	0.01381	
+                           function	0.01656	                             system	0.01473	                           gaussian	0.01957	                              limit	0.01351	
+                              based	0.01196	                             figure	0.01406	                           estimate	0.01748	                             theory	0.01218	
+
+                              Mel_B	0.02711	                           Kawato_M	0.05309	                            Mozer_M	0.02449	                            Moody_J	0.02245	
+                             Koch_C	0.02266	                          Wolpert_D	0.01708	                        Tenenbaum_J	0.02087	                            Munro_P	0.01653	
+                        Sejnowski_T	0.02114	                         Shadmehr_R	0.01348	                            Ahmad_S	0.02074	                            Krogh_A	0.01383	
+                               Li_Z	0.01923	               Vatikiotis-Bateson_E	0.01336	                        Sejnowski_T	0.01744	                          Tesauro_G	0.01302	
+                            Bower_J	0.01490	                             Beer_R	0.01277	                        Pomerleau_D	0.01465	                          Weigend_A	0.01297	
+                            Blair_H	0.01403	                             Doya_K	0.01257	                           Baluja_S	0.01172	                            Mozer_M	0.01265	
+                           Pouget_A	0.01248	                            Bower_J	0.01254	                              Mel_B	0.01092	                        Sejnowski_T	0.01197	
+
+
+                           TOPIC 17	0.02601	                           TOPIC 18	0.02039	                           TOPIC 19	0.01709	                           TOPIC 20	0.02243	
+
+                             action	0.03392	                            problem	0.06196	                           training	0.08743	                               time	0.14218	
+                      reinforcement	0.03202	                             method	0.03852	                            trained	0.03390	                             signal	0.04634	
+                             policy	0.03080	                            methods	0.02786	                        performance	0.03002	                               rate	0.03204	
+                            actions	0.02042	                              local	0.02306	                               task	0.02425	                           temporal	0.02755	
+                            optimal	0.02010	                           approach	0.02248	                                set	0.02043	                        information	0.02685	
+                        environment	0.01833	                           problems	0.02086	                               data	0.01693	                            channel	0.01879	
+                              robot	0.01527	                           solution	0.02001	                              table	0.01607	                            signals	0.01855	
+
+                          Sollich_P	0.03500	                         Neuneier_R	0.01406	                        Smolensky_P	0.05175	                        Sejnowski_T	0.02742	
+                          Warmuth_M	0.02168	                            Moody_J	0.00959	                            Thrun_S	0.02074	                        Obermayer_K	0.02050	
+                           Kearns_M	0.01640	                             Gold_S	0.00943	                            Mozer_M	0.01906	                         Friedman_A	0.01870	
+                            Opper_M	0.01632	                            Tresp_V	0.00841	                          Shavlik_J	0.01653	                               Li_Z	0.01527	
+                             Saad_D	0.01620	                          Linsker_R	0.00782	                              Mel_B	0.01485	                           Pouget_A	0.01521	
+                            Amari_S	0.01592	                           Bengio_Y	0.00755	                        Touretzky_D	0.01456	                         Goodhill_G	0.01451	
+                           Barber_D	0.01445	                             Meir_R	0.00731	                            Plate_T	0.01156	                           Tanaka_S	0.01419	
+
+
+                           TOPIC 21	0.02099	                           TOPIC 22	0.01482	                           TOPIC 23	0.02003	                           TOPIC 24	0.01631	
+
+                             object	0.05259	                              human	0.02726	                          frequency	0.04703	                             search	0.03003	
+                            objects	0.03138	                        performance	0.02504	                           auditory	0.02384	                             number	0.02069	
+                              model	0.03018	                               task	0.02452	                              model	0.02334	                        performance	0.01498	
+                        recognition	0.02584	                               face	0.02371	                               head	0.02219	                               time	0.01471	
+                           matching	0.01912	                           subjects	0.01855	                         adaptation	0.01845	                         algorithms	0.01426	
+                              level	0.01875	                         similarity	0.01647	                               gain	0.01792	                              table	0.01237	
+                               view	0.01696	                     representation	0.01622	                              sound	0.01632	                               path	0.01091	
+
+                           Jordan_M	0.05143	                        Sejnowski_T	0.03539	                            Mozer_M	0.02416	                           Rogers_D	0.02158	
+                           Singer_Y	0.02186	                           Ruppin_E	0.01225	                        Touretzky_D	0.02038	                        Touretzky_D	0.02056	
+                            Smyth_P	0.02103	                           Jordan_M	0.01219	                      Schmidhuber_J	0.01845	                           Baluja_S	0.01640	
+                            Tresp_V	0.02097	                         Principe_J	0.01154	                            Baird_B	0.01560	                            Zemel_R	0.01531	
+                       Ghahramani_Z	0.01982	                         Cichocki_A	0.00865	                           Waibel_A	0.01284	                            Dayan_P	0.01140	
+                           Bengio_Y	0.01944	                           Attias_H	0.00851	                             Jain_A	0.01274	                        Sejnowski_T	0.01021	
+                          Hofmann_T	0.01932	                         Robinson_A	0.00823	                            Wiles_J	0.01257	                           Schaal_S	0.00957	
+
+
+                           TOPIC 25	0.01716	                           TOPIC 26	0.02288	                           TOPIC 27	0.02660	                           TOPIC 28	0.02005	
+
+                             speech	0.05895	                             vector	0.06286	                         regression	0.04001	                              state	0.14201	
+                        recognition	0.03868	                            vectors	0.05516	                             kernel	0.03159	                             states	0.05257	
+                               word	0.03655	                           distance	0.04419	                               data	0.02181	                               time	0.02544	
+                             system	0.02426	                              space	0.03799	                                set	0.02150	                             markov	0.01876	
+                            context	0.01922	                             points	0.03538	                            support	0.02125	                         transition	0.01820	
+                                hmm	0.01899	                              point	0.02815	                           training	0.01685	                            dynamic	0.01590	
+                              words	0.01496	                             linear	0.01731	                             linear	0.01398	                         stochastic	0.01534	
+
+                           Ruppin_E	0.02287	                          Atkeson_C	0.02944	                           Jordan_M	0.02118	                           Waibel_A	0.04924	
+                           Hasler_P	0.01603	                            Moore_A	0.02048	                            Singh_S	0.01760	                         Bourlard_H	0.02459	
+                             Koch_C	0.01586	                            Moody_J	0.01520	                         Jaakkola_T	0.01654	                           Bengio_Y	0.02380	
+                     Cauwenberghs_G	0.01275	                              Wan_E	0.01469	                       Tsitsiklis_J	0.01508	                           Rigoll_G	0.02189	
+                           Murray_A	0.01271	                           Bishop_C	0.01313	                       Ghahramani_Z	0.01280	                           Morgan_N	0.01544	
+                            Maass_W	0.01016	                       Ghahramani_Z	0.01304	                          Hassibi_B	0.01161	                            Levin_E	0.01517	
+                           Marder_E	0.00839	                           Roweis_S	0.01300	                             Leen_T	0.01159	                         Lippmann_R	0.01492	
+
+
+                           TOPIC 29	0.02042	                           TOPIC 30	0.02428	                           TOPIC 31	0.01645	                           TOPIC 32	0.01970	
+
+                        information	0.05356	                        information	0.02963	                            network	0.26211	                        correlation	0.04151	
+                          knowledge	0.01281	                        independent	0.02341	                             neural	0.16301	                          component	0.02724	
+                             target	0.01207	                            entropy	0.01879	                           networks	0.14240	                         components	0.02562	
+                           research	0.01188	                             source	0.01860	                                net	0.02550	                           ensemble	0.02128	
+                            correct	0.01085	                            sources	0.01711	                            systems	0.01185	                           analysis	0.01948	
+                               work	0.01018	                            natural	0.01692	                               nets	0.01151	                             sparse	0.01406	
+                            science	0.00911	                         separation	0.01568	                        feedforward	0.01128	                       correlations	0.01349	
+
+                           Hinton_G	0.02424	                             Cohn_D	0.02761	                         Cottrell_G	0.01260	                         Lippmann_R	0.03836	
+                           Poggio_T	0.02400	                           Hinton_G	0.02220	                         Movellan_J	0.01242	                           Bengio_Y	0.02883	
+                            Zemel_R	0.02109	                          Sollich_P	0.01592	                        Sejnowski_T	0.01204	                           Waibel_A	0.02579	
+                        Omohundro_S	0.01903	                         Williams_C	0.01539	                         Pentland_A	0.01161	                           Morgan_N	0.02188	
+                         Ruderman_D	0.01422	                           Heskes_T	0.01315	                         Goodhill_G	0.01159	                         Bourlard_H	0.01337	
+                          Darrell_T	0.01279	                            Moody_J	0.01261	                          Fritzke_B	0.01123	                           Barber_D	0.01308	
+                       Ghahramani_Z	0.01196	                            Tresp_V	0.01044	                          Caruana_R	0.01085	                           Hinton_G	0.01092	
+
+
+                           TOPIC 33	0.02095	                           TOPIC 34	0.02283	                           TOPIC 35	0.02107	                           TOPIC 36	0.01656	
+
+                              model	0.06831	                            neurons	0.04980	                            control	0.06810	                              noise	0.10277	
+                               data	0.05970	                             neuron	0.03630	                              model	0.03954	                             linear	0.02025	
+                         prediction	0.04019	                           synaptic	0.02762	                              motor	0.02529	                             values	0.02003	
+                             models	0.03036	                             firing	0.02281	                         controller	0.02091	                              noisy	0.01651	
+                                set	0.02398	                              spike	0.02237	                         trajectory	0.01877	                             effect	0.01378	
+                               test	0.01993	                           activity	0.01700	                             system	0.01820	                             factor	0.01339	
+                          selection	0.01803	                              model	0.01664	                           feedback	0.01592	                                low	0.01325	
+
+                            Zador_A	0.03351	                      Abu-Mostafa_Y	0.02187	                        Kowalczyk_A	0.02305	                             Saad_D	0.03422	
+                            Maass_W	0.03141	                             Leen_T	0.01970	                             Baum_E	0.02184	                            Hertz_J	0.01460	
+                             Koch_C	0.02418	                             Saad_D	0.01945	                     Shawe-Taylor_J	0.02097	                         Schwarze_H	0.01206	
+                           Rhodes_P	0.02189	                             Doya_K	0.01724	                         Bartlett_P	0.01781	                          Sollich_P	0.01128	
+                         Gerstner_W	0.01996	                            Seung_H	0.01682	                        Venkatesh_S	0.01756	                          Chauvin_Y	0.01116	
+                            Bower_J	0.01601	                            Moody_J	0.01664	                           Rivest_R	0.01612	                             Wong_K	0.01043	
+                        Meilijson_I	0.01444	                           Pineda_F	0.01296	                              Siu_K	0.01463	                           Jordan_M	0.01033	
+
+
+                           TOPIC 37	0.02345	                           TOPIC 38	0.01801	                           TOPIC 39	0.02144	                           TOPIC 40	0.01627	
+
+                             analog	0.03974	                           response	0.03713	                              rules	0.05000	                             memory	0.11246	
+                            circuit	0.03729	                               data	0.01592	                               rule	0.04068	                        associative	0.03592	
+                               chip	0.03313	                          responses	0.01127	                          structure	0.03433	                              model	0.02558	
+                             figure	0.02400	                              order	0.01052	                     representation	0.03222	                             number	0.02511	
+                            current	0.02314	                             single	0.01015	                    representations	0.01791	                             stored	0.02181	
+                            voltage	0.02131	                            results	0.00973	                      connectionist	0.01592	                            pattern	0.01672	
+                               vlsi	0.01874	                          detection	0.00889	                         structures	0.01586	                             recall	0.01640	
+
+                         Lippmann_R	0.04348	                           Murray_A	0.02231	                            Maass_W	0.04345	                             Koch_C	0.01821	
+                            Chang_E	0.01563	                     Cauwenberghs_G	0.01767	                     Shawe-Taylor_J	0.02231	                           Bialek_W	0.01764	
+                            Jabri_M	0.01329	                          Eeckman_F	0.01453	                              Siu_K	0.01859	                        Schreiner_C	0.01168	
+                     Wettschereck_D	0.01177	                        Alspector_J	0.01370	                         Bartlett_P	0.01855	                           Makeig_S	0.01166	
+                           Singer_Y	0.00949	                          Andreou_A	0.01226	                          Kailath_T	0.01416	                          Edwards_R	0.01163	
+                           Craven_M	0.00877	                             Houk_J	0.01153	                            Bruck_J	0.01318	                          Manwani_A	0.01153	
+                              Lee_Y	0.00864	                         Schwartz_D	0.01118	                             Meir_R	0.01226	                     Cauwenberghs_G	0.01130	
+
+
+                           TOPIC 41	0.02396	                           TOPIC 42	0.01786	                           TOPIC 43	0.01889	                           TOPIC 44	0.01914	
+
+                          algorithm	0.10128	                              cells	0.05161	                             matrix	0.03606	                     classification	0.06525	
+                           gradient	0.04186	                               cell	0.03575	                           equation	0.03156	                              class	0.06189	
+                         algorithms	0.03556	                              model	0.02985	                               case	0.02676	                         classifier	0.03963	
+                        convergence	0.02680	                             cortex	0.02643	                           analysis	0.01758	                            classes	0.02816	
+                           function	0.02169	                           stimulus	0.02055	                           positive	0.01521	                        classifiers	0.02461	
+                            descent	0.01872	                        orientation	0.01903	                         conditions	0.01451	                                set	0.02413	
+                             linear	0.01792	                           cortical	0.01873	                            general	0.01363	                           training	0.02138	
+
+                            Tresp_V	0.02228	                           Hinton_G	0.03198	                            Singh_S	0.03302	                            Platt_J	0.01957	
+                            Moody_J	0.02004	                            Mozer_M	0.03193	                            Mozer_M	0.03084	                           Baluja_S	0.01592	
+                         Neuneier_R	0.01683	                           Martin_G	0.01945	                            Giles_C	0.02271	                           Vapnik_V	0.01505	
+                            Maass_W	0.01627	                        Henderson_D	0.01651	                              Das_S	0.02082	                           Simard_P	0.01489	
+                        Omohundro_S	0.01103	                           Rashid_M	0.01642	                              Sun_G	0.01617	                           Denker_J	0.01376	
+                      Abu-Mostafa_Y	0.01087	                        Rumelhart_D	0.01398	                           Singer_Y	0.01520	                           Burges_C	0.01350	
+                       Williamson_R	0.01080	                            Ahmad_S	0.01186	                          Pollack_J	0.01502	                           Rogers_D	0.01348	
+
+
+                           TOPIC 45	0.02875	                           TOPIC 46	0.02083	                           TOPIC 47	0.01454	                           TOPIC 48	0.01567	
+
+                           function	0.07912	                               data	0.06145	                              field	0.04946	                           patterns	0.04575	
+                          functions	0.04714	                         clustering	0.02765	                             figure	0.03513	                            pattern	0.03565	
+                              basis	0.03196	                              space	0.02544	                                map	0.03015	                         activation	0.03221	
+                      approximation	0.02756	                            cluster	0.02358	                              local	0.02832	                        distributed	0.02109	
+                               data	0.02370	                               code	0.02256	                             fields	0.02295	                              level	0.01933	
+                                rbf	0.02061	                           clusters	0.01689	                          receptive	0.02266	                             active	0.01867	
+                              space	0.01745	                        dimensional	0.01669	                            regions	0.01851	                         processing	0.01532	
+
+                         Williams_C	0.03624	                          Tesauro_G	0.02605	                        Sejnowski_T	0.02736	                           Simard_P	0.04950	
+                           Bishop_C	0.02601	                         Williams_C	0.01386	                        Anastasio_T	0.02733	                           Baluja_S	0.02342	
+                       Ghahramani_Z	0.01638	                           Sanger_T	0.01290	                           Coenen_O	0.01854	                           Hinton_G	0.01269	
+                             Saad_D	0.01618	                            Barto_A	0.01244	                         DeWeerth_S	0.01831	                            Mozer_M	0.01126	
+                           Attias_H	0.01476	                            Smyth_P	0.01117	                           Pouget_A	0.01680	                             Agin_P	0.01062	
+                             Saul_L	0.01389	                            Moody_J	0.01015	                             Houk_J	0.01654	                           Spence_C	0.00961	
+                           MacKay_D	0.01336	                            Dayan_P	0.01005	                             Koch_C	0.01539	                           Denker_J	0.00919	
+
+
+                           TOPIC 49	0.02138	                           TOPIC 50	0.02091	
+
+                          recurrent	0.04225	                             energy	0.04408	
+                           sequence	0.04207	                              graph	0.02344	
+                          sequences	0.02614	                        constraints	0.01918	
+                              state	0.02324	                            problem	0.01847	
+                           language	0.01725	                         constraint	0.01772	
+                            context	0.01639	                              field	0.01695	
+                             length	0.01438	                          annealing	0.01561	
+
+                            Smola_A	0.02219	                               Li_Z	0.02805	
+                        Scholkopf_B	0.01594	                        Sejnowski_T	0.01970	
+                         Intrator_N	0.01251	                       Chklovskii_D	0.01703	
+                     Roychowdhury_V	0.01156	                            Bower_J	0.01689	
+                           Hastie_T	0.01084	                        Obermayer_K	0.01586	
+                        Venkatesh_S	0.00987	                            Baird_B	0.01494	
+                          Atkeson_C	0.00942	                             Koch_C	0.01429	
+
+
