@@ -11,7 +11,7 @@
 
 %% 
 % Choose the dataset
-dataset = 1; % 1 = psych review; 2 = nips papers
+dataset = 2; % 1 = psych review; 2 = nips papers
 
 if (dataset == 1)
     % Load the psych review word stream
